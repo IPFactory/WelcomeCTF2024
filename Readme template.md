@@ -15,7 +15,7 @@ Author:
 
 ## 難易度
 
-Easy/Normal/Hard
+Beginner/Easy/Normal/Hard
 
 ---
 
