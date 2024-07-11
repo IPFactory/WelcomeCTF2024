@@ -12,6 +12,11 @@ Flagフォーマットはipfctf{オブジェのあだ名} です。
 Author:hatomato
 
 ---
+<details><summary>Hint</summary>
+
+学校の敷地内なのかな
+
+</details>
 
 ## 難易度
 
