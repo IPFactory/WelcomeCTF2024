@@ -1,4 +1,4 @@
-# [OSINT] Favorite Food 100Point 9Solves
+# [OSINT] Favorite Food - 100Point 9Solves
 
 ## 問題文 
 

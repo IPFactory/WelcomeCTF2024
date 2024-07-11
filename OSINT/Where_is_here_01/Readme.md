@@ -1,4 +1,4 @@
-# [OSINT] Where_is_here_?_01 100Point 00Solves
+# [OSINT] Where_is_here_?_01 - 100Point 00Solves
 
 ## 問題文 
 写真に写っているのはいったいどこだろう？？？
