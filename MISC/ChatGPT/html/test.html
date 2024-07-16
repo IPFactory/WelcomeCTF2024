@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+
+<head>
+    <title>Test</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <h1>Test</h1>
+    <div>
+        <label for="name">名前：</label>
+        <input type="text" id="name" name="name">
+        <button id="submit">送信</button>
+    </div>
+
+    <script>
+        function sendrequest(chat) {
+            let json ;
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', 'php/api.php', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.send("messages="+JSON.stringify(chat));
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    json = JSON.parse(xhr.responseText);
+                    return json;
+                }
+            };
+            return json;
+        }
+
+        
+
+    </script>
+
+
+
+
+
+
+    <script>
+        let json ;
+        let chat = [{role: 'user', content: 'こんにちは'+name+'です'}]
+        document.getElementById('submit').addEventListener('click', function() {
+            var name = document.getElementById('name').value;
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', 'php/api.php', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.send("messages="+JSON.stringify(chat));
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    json = JSON.parse(xhr.responseText);
+                    console.log(json);
+                }
+            };
+            
+        });
+    </script>
+
+</html>
