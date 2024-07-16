@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(240, 246, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bold;
+    color: black;
+}
+
+.block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    padding: 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: rgb(26, 38, 56);
+    color: white;
+    font-weight: bold;
+}
+
+input[type=text], input[type=password], input[type=submit]{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+    width: 80%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover{
+    background-color: #45a049;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}

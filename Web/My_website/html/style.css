@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(50, 50, 50);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    font-size:xxx-large;
+    font-weight: bold;
+    color: white;
+}
+#ipf_logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    padding: 30px;
+    margin-top: 10px;
+
+    border-radius: 15px;
+}
+#source{
+    background-color: rgb(26, 38, 56);
+    color:white;
+    font-weight: bold;
+}
+#comment{ color:gray; }
+#commentH1{ color:gray; font-size: larger; }
+#red{ color:lightcoral; }
+#blue{ color:lightskyblue; }
+#orange{ color:orange; }
+#white{ color:white;}
+
+#fake{
+    color: rgb(240, 246, 255);
+    text-align: center;
+}
+
+/* Hello, I will give you a flag. But only 1/3 of it. :　W1sd0m_  (2/3) */
