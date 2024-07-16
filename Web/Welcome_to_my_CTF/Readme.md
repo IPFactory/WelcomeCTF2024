@@ -1,4 +1,4 @@
-# [OSINT] Welcome_to_my_CTF - 200Point 5Solves
+# [Web] Welcome_to_my_CTF - 200Point 5Solves
 
 ## 問題文 
 

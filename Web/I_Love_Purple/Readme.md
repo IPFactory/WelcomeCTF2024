@@ -1,4 +1,4 @@
-# [OSINT] I_Love_Purple - 200Point 9Solves
+# [Web] I_Love_Purple - 200Point 9Solves
 
 ## 問題文 
 

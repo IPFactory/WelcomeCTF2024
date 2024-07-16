@@ -1,4 +1,4 @@
-# [OSINT] Are_you_admin? 300Point 4Solves
+# [Web] Are_you_admin? 300Point 4Solves
 
 ## 問題文 
 
