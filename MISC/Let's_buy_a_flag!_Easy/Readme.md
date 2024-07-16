@@ -16,7 +16,7 @@ Author:save
 
 ## 難易度
 
-Beginner/Easy/Normal/Hard
+Beginner
 
 ---
 
