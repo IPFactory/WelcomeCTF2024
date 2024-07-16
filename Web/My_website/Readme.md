@@ -1,4 +1,4 @@
-# [OSINT] My_website - 200Point 9Solves
+# [Web] My_website - 200Point 9Solves
 
 ## 問題文 
 
