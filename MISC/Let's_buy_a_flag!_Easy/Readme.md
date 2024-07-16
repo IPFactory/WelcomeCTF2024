@@ -1,4 +1,4 @@
-# [OSINT] Let's_buy_a_flag!_Easy - 100Point 11Solves
+# [MISC] Let's_buy_a_flag!_Easy - 100Point 11Solves
 
 ## 問題文 
 
