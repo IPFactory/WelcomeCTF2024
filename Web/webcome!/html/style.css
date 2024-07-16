@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(240, 246, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    font-size:xxx-large;
+    font-weight: bold;
+    color:black;
+}
+#ipf_logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    padding: 30px;
+    margin-top: 10px;
+
+    border-radius: 15px;
+}
+#source{
+    background-color: rgb(26, 38, 56);
+    color:white;
+    font-weight: bold;
+}
+#src1{ color:gray; }
+#src2{ color:lightcoral; }
+#src3{ color:lightskyblue; }
+#src4{ color:white;}
+#src5{ color:white; }
+
+#fake{
+    color: rgb(240, 246, 255);
+    text-align: center;
+}
