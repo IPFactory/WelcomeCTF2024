@@ -1,7 +1,6 @@
-# [OSINT] title 100Point 00Solves
+# [OSINT] title - 100Point 00Solves
 
 ## 問題文 
-
 
 Flagフォーマットは ipfctf{} です。
 
@@ -15,7 +14,7 @@ Author:
 
 ## 難易度
 
-Easy/Normal/Hard
+Beginner/Easy/Normal/Hard
 
 ---
 
