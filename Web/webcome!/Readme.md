@@ -1,4 +1,4 @@
-# [OSINT] webcome! - 100Point 11Solves
+# [Web] webcome! - 100Point 11Solves
 
 ## 問題文 
 
